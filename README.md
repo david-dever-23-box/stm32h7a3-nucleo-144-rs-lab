@@ -27,6 +27,34 @@ true random number generator (RNG). The devices support nine digital filters for
 
 ---
 
+## Getting Started
+
+### Required Hardware
+
+>The following instructions assume, for simplicity, the existence of an available USB Type-A port on the host device. Use of an adapter providing a USB Type-A port to USB-C connector should also work.
+
+A **USB Micro-B to Type-A cable** is required for connection between the development board and the host device. The USB Micro-B connector plugs into the USB Micro-B port, flat side up, i.e., away from the PCB.
+
+![USB Micro-B port](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USB_Micro-B_receptacle.svg/150px-USB_Micro-B_receptacle.svg.png)
+
+![USB Type-A connector](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/USB_Type-A_receptacle_Black.svg/150px-USB_Type-A_receptacle_Black.svg.png)
+
+### Required Software
+
+#### macOS
+
+>TODO
+
+#### Windows
+
+>TODO
+
+#### Linux
+
+>TODO
+
+---
+
 ## License
 
 [MIT License](https://spdx.org/licenses/MIT.html)
